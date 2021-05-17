@@ -20,7 +20,8 @@
 
 ### 👀 5월 16일(1차 정보시스템 구축)
 
-![image](https://user-images.githubusercontent.com/53335160/118402246-0f266b80-b6a4-11eb-9f95-e272795c9f8a.png)
-![image](https://user-images.githubusercontent.com/53335160/118402311-51e84380-b6a4-11eb-988a-a4b4bc9824b6.png)
-![image](https://user-images.githubusercontent.com/53335160/118402375-a986af00-b6a4-11eb-8228-a89a474f36bd.png)
+![image](https://user-images.githubusercontent.com/53335160/118454371-4132de80-b733-11eb-88b8-8d0049487f13.png)
+![image](https://user-images.githubusercontent.com/53335160/118454484-61fb3400-b733-11eb-8455-6cf365f4eca4.png)
+![image](https://user-images.githubusercontent.com/53335160/118454609-86efa700-b733-11eb-955d-83a70b138bb0.png)
+
 
