@@ -25,3 +25,5 @@
 ![image](https://user-images.githubusercontent.com/53335160/118454609-86efa700-b733-11eb-955d-83a70b138bb0.png)
 
 
+### 👀 5월 20일(1차 ERD)
+![image](https://user-images.githubusercontent.com/53335160/118842050-cff65580-b903-11eb-8cfb-eae6be7f2c7a.png)
