@@ -43,4 +43,5 @@
 <br>
 
 ### 👀 5월 26일(2차 ERD)
-![image](https://user-images.githubusercontent.com/53335160/119643825-34129f80-be57-11eb-9e7a-a48f4a7a7791.png)![image](https://user-images.githubusercontent.com/53335160/119643901-47256f80-be57-11eb-9eaa-fd5a914ea692.png)
+![image](https://user-images.githubusercontent.com/53335160/119692026-05f88400-be86-11eb-8125-bb6e9c44f565.png)
+
