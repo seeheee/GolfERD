@@ -1,6 +1,12 @@
 
-## 🏌️‍♂️ erwin을 사용하여 골프와 관련된 종합 정보를 제공하는 회사 ERD &amp; 정보시스템 구축
+# 🏌️‍♂️ erwin을 사용하여 골프와 관련된 종합 정보를 제공하는 회사 ERD &amp; 정보시스템 구축
 
+<br>
+
+## 💡 시나리오 보면서 필요한 부분들 정리한 PDF 파일
+[시나리오 정리 다운로드.pdf](https://github.com/seeheee/GolfERD/files/6602582/default.pdf)
+
+<br>
 
 ## 💡 어려웠던 부분들
 
